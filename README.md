@@ -11,6 +11,16 @@ As an undergraduate student in Mechanical Engineering at Brigham Young Universit
 * Stanford School of Engineering Fellowship
 * Tau Beta Pi Scholarship
 
+## Top Projects
+| :gift: Project Name | :book: Brief Description | Language | 
+| ------------ | ----------------- | -------- |
+| [altro-cpp](https://github.com/optimusride/altro-cpp) | C++ version of ALTRO | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| [Altro.jl](https://github.com/RoboticExplorationLab/ALTRO.jl) | SotA nonlinear conic trajectory optimization solver | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) | Formulating trajectory optimization problems | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [RobotDynamics.jl](https://github.com/RoboticExplorationLab/RobotDynamics.jl) | Defining controlled dynamics models | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [RobotZoo.jl](https://github.com/RoboticExplorationLab/RobotZoo.jl) | A collection of canonical robot models | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+| [Mercury.jl](https://github.com/RoboticExplorationLab/Mercury.jl) | Fast ZMQ-based messaging in Julia | ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) |
+
 <!--
 **bjack205/bjack205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
