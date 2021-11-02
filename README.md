@@ -1,3 +1,10 @@
+## My Sofware Philosophy
+* Open source is best! :muscle:
+* Write everything like someone else is going to read it :thinking:
+* Always think about leaving the door open for future development 💡
+* Keep it clean and neat 🧽
+* Make it fast ⚡
+
 ## Brief Bio
 Mechanical engineer, student, researcher, aspiring roboticist, and avid hiker, I am dedicated to pursuing robotics research to solve meaningful problems. Currently a PhD Candidate in the Robotics Institute at Carnegie Mellon University, my primary research interests include developing fast, robust, and versatile methods for trajectory optimization for robotics applications. Together with my advisor Dr. Zachary Manchester and my colleagues in the Robotic Exploration Laboratory, I hope to use these methods to endow robotic systems with greater ability to interact with humans and the physical world in a safe, reliable, and predictable way.
 
