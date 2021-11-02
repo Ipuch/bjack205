@@ -5,6 +5,16 @@
 * Keep it clean and neat 🧽
 * Make it fast ⚡
 
+## My Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## Brief Bio
 Mechanical engineer, student, researcher, aspiring roboticist, and avid hiker, I am dedicated to pursuing robotics research to solve meaningful problems. Currently a PhD Candidate in the Robotics Institute at Carnegie Mellon University, my primary research interests include developing fast, robust, and versatile methods for trajectory optimization for robotics applications. Together with my advisor Dr. Zachary Manchester and my colleagues in the Robotic Exploration Laboratory, I hope to use these methods to endow robotic systems with greater ability to interact with humans and the physical world in a safe, reliable, and predictable way.
 
